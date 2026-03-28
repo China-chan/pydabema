@@ -45,7 +45,7 @@ This repository is a continued / extended version of the original project:
 First, clone the repository:
 
 ```bash id="clone01"
-git clone [https://github.com/NyaShinn1204/abema-dash-decryptor](https://github.com/China-chan/pydabema)
+git clone https://github.com/China-chan/pydabema
 ````
 
 ---
