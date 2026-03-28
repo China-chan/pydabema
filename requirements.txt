@@ -1,0 +1,5 @@
+requests
+base64
+base58
+rich
+pycryptodome
